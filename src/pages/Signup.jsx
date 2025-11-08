@@ -1,7 +1,7 @@
 // src/pages/Signup.jsx
 import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import "./signup.css";
+import "./Signup.css";
 import { registerApi } from "../api/auth";
 import { FiEye, FiEyeOff } from "react-icons/fi";
 
